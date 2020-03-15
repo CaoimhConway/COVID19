@@ -20,18 +20,6 @@ The current datasets are:
   - Latitude: floatig point representing the geographic coordinate
   - Longitude: floatig point representing the geographic coordinate
 
-## Analyze the data
-You can find Jupyter Notebooks in the [analysis folder](input) with examples
-of how to load and analyze the data. You can use Google Colab if you want to 
-run your analysis without having to install anything in your computer, simply 
-go to this URL: https://colab.research.google.com/github/open-covid-19/data/
-
-## Why another dataset?
-This dataset is heavily inspired by the dataset maintained by 
-[Johns Hopkins University][1]. Unfortunately, that dataset is currently 
-experiencing maintenance issues and a lot of applications depend on this 
-critical data being available in a timely manner. Further, the true sources
-of data for that dataset are still unclear.
 
 ## Source of data
 The world data comes from the daily reports at the [ECDC portal][2].
